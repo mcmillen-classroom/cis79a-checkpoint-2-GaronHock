@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">quizapp</string>
+    <string name="question_text">Placeholder for first question</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name = "previous_button">previous</string>
+    <string name="question_1">Is ash\'s favorite pokemon pikachu?</string>
+    <string name = "Hint1">Pickachu follow\'s around Ash outside of his PokeBall</string>
+    <string name="question_2">Misty uses mainly fire pokemon</string>
+    <string name="Hint2">Misty uses Starmie</string>
+    <string name="question_3">Brock uses mainly rock pokemon</string>
+    <string name = "Hint3">Brock has an Onix</string>
+    <string name="question_4">Charizard is the final form of charmander</string>
+    <string name="Hint4">Charizard\'s evolution begins at level 32</string>
+    <string name="question_5">Pickachu is the strongest pokemon</string>
+    <string name ="Hint5">Raichu is an evolution of Pikachu</string>
+
+</resources>
